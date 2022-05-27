@@ -1,10 +1,10 @@
 # Programacao-Web
 <b>Repositório para programações front-end</b>
 <br>
-Primeiro Portfólio criado.
+1- Primeiro Portfólio criado.
 <br>
 Situação: Ainda não finalizado!
 <br>
-Calculadora Simples 
+2- Calculadora Simples 
 <br>
 Situação: Finalizada!
