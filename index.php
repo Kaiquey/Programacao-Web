@@ -52,7 +52,7 @@
 				<div id="keyboard">
 					<div class="row">
 						<div class="col-12">
-							<input type="text" name="n1" class="form-control mb-3" placeholder="Digite um número:">
+							<input type="text" name="n1" class="form-control mb-3" placeholder="Digite um número:" required>
 						</div>
 						<div class="col-12">
 							<select class="form-select mb-3 bg-info" name="tipo" required>
